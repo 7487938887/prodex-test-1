@@ -1,0 +1,49 @@
+* {
+    font-family: "Consolas", sans-serif;
+}
+
+.content {
+    width: 90%;
+    margin: 1% auto;
+}
+
+.content form {
+    width: 160px;
+    margin: 15% auto 2% auto;
+}
+
+.content form input {
+    margin: 2% auto;
+}
+
+.content #submitButton {
+    width: 155px;
+    margin: 1% auto;
+}
+
+.content #resp {
+    text-align: center;
+}
+
+#success {
+    color: green;
+}
+
+#error {
+    color: red;
+}
+
+.btnHolder {
+    width: 70px;
+    margin: 15% auto;
+}
+
+.registerHolder {
+    width: 100px;
+    margin: 1% auto;
+}
+
+.backBtn {
+    width: 80px;
+    margin: .5% auto;
+}
